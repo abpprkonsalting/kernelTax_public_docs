@@ -6,7 +6,6 @@ Public documents of he project KernelTax.
 
 |-----------------------------|----------------------------|-------------------|
 |    Description              |            File            |       Status      |
-|-----------------------------|----------------------------|-------------------|
 |    Spanish user manual      |   "Manual_KernelTax.odt"   |     Uploaded      |
 |-----------------------------|----------------------------|-------------------|
 |    English user manual      | "Manual_KernelTax_en.odt"  |     Development   |
