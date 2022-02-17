@@ -5,7 +5,6 @@ The code of this project is property of Neticom KERNEL INC. Yet the information 
 Public documents of he project KernelTax.
 
 Doc # --------|--------  Description -------|-----------  File ----------|----- Status ------|
---------------|----------------------------------------------------------|-------------------|
  1            |    Spanish user manual      |   "Manual_KernelTax.odt"   |     Uploaded      |
 --------------|-----------------------------|----------------------------|-------------------|
  2            |    English user manual      | "Manual_KernelTax_en.odt"  |     Development   |
